@@ -1,0 +1,5 @@
+name: JLMessages
+author: minermax7
+version: 1.0
+description: This plugin simply changes the join/leave messages.
+main: net.minermax7.jlmessages.Main
